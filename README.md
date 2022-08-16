@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sashko-Milushev
-- 👀 I’m 
-- 🌱 I’m currently learning Python
+- 🔭 I’m currently working on personal projects
+- 🌱 I’m currently learning Python, JavaScript, HTML&CSS
 - 💞️ I’m looking to collaborate on simple projects
 - 📫 How to reach me milushev.sashko@gmail.com
 
