@@ -10,8 +10,11 @@
 
   <img height="180em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sashko-Milushev&langs_count=8&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db&&count_private=true&include_all_commits=true" />
 </p>
- <b>🔥 Github Streaks</b>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sashko-Milushev&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Sashko-Milushev" /></p>
+  <b>🔥 Github Streaks
+    <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sashko-Milushev&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Sashko-Milushev" />
+  </b>
+     
+</p>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -28,6 +31,7 @@
 - 🔧 
   ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+  
 ![](./profile-green-animate.svg)
 
 <!---
